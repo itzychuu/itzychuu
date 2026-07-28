@@ -230,13 +230,13 @@ Official website of the Coding Club at Sree Buddha College of Engineering — a 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B00&icon_color=FF6B00&text_color=C9D1D9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0F0F0F&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=itzychuu&show_icons=true&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B00&icon_color=FF6B00&text_color=C9D1D9" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itzychuu&theme=dark&hide_border=true&background=0F0F0F&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B00&text_color=C9D1D9" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzychuu&layout=compact&theme=dark&hide_border=true&bg_color=0F0F0F&title_color=FF6B00&text_color=C9D1D9" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=itzychuu&theme=darkhub&no-frame=true&column=4&margin-w=8&margin-h=8" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=0F0F0F&color=FF6B00&line=FF6B00&point=FFFFFF&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itzychuu&theme=react-dark&bg_color=0F0F0F&color=FF6B00&line=FF6B00&point=FFFFFF&hide_border=true" width="98%" />
 
 </div>
 
@@ -246,7 +246,7 @@ Official website of the Coding Club at Sree Buddha College of Engineering — a 
 
 ### Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="98%" />
+<img src="https://raw.githubusercontent.com/itzychuu/itzychuu/output/github-contribution-grid-snake-dark.svg" width="98%" />
 
 <sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — set up as a GitHub Action on your profile repo.</sub>
 
@@ -296,7 +296,7 @@ Official website of the Coding Club at Sree Buddha College of Engineering — a 
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=itzychuu&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:0F0F0F&height=120&section=footer" width="100%"/>
 
