@@ -8,13 +8,11 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F0F0F?style=for-the-badge&logo=vercel&logoColor=FF6B00)](https://your-portfolio-url.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/X-0F0F0F?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-0F0F0F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/your-handle)
-[![Email](https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your-email@example.com)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0F0F0F?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-handle)
-[![Hashnode](https://img.shields.io/badge/Hashnode-0F0F0F?style=for-the-badge&logo=hashnode&logoColor=2962FF)](https://hashnode.com/@your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F0F0F?style=for-the-badge&logo=vercel&logoColor=FF6B00)](https://vaishnav-s.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F0F0F?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/1920-vaishnav-s/)
+[![Twitter](https://img.shields.io/badge/X-0F0F0F?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_why_choo_/)
+[![Instagram](https://img.shields.io/badge/Instagram-0F0F0F?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/_y._chuu._/)
+[![Email](https://img.shields.io/badge/Email-0F0F0F?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:vaishnavshalikumar49@gmail.com)
 
 </div>
 
